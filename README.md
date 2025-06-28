@@ -1,4 +1,4 @@
-<img src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg" alt="" width="100%" height="270px"/>
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*XhLu0b-kQaXNWpWuHvD-hg.jpeg" alt="" width="100%" height="270px"/>
 <h1 align="center">Hi 👋, I'm Ravi Kumar Yadav</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="" width="100%" height="20%"/>
